@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/RenegadeGandhi/templating-engines-Day18.git"
   },
-  "keywords": [],
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -22,5 +25,8 @@
     "express": "^4.17.1",
     "heroku": "^7.41.1",
     "pug": "^2.0.4"
+  },
+  "engines": {
+    "node": "12.16.1"
   }
 }
